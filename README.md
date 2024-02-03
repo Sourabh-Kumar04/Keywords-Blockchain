@@ -40,19 +40,15 @@
 
 7)	**Merkle Table :** In cryptography and computer science, a hash tree or Merkle tree is a tree in which every “leaf” (node) is labelled with the cryptographic hash of a data block, and every node that is not a leaf (called a branch, inner node, or inode) is labelled with the cryptographic hash of the labels of its child nodes. A hash tree allows efficient and secure verification of the contents of a large data structure. A hash tree is a generalization of a hash list and a hash chain.
 
-https://en.wikipedia.org/wiki/File%3AHash_Tree.svg
-
-
+![image](https://github.com/Sourabh-Kumar04/Keywords-Blockchain/assets/155216316/170340b5-6e32-4502-b37f-20d12c8f0d77)
 
 7)	**Data Node :** A node is a basic unit of a data structure, such as a linked list or tree data structure. Nodes contain data and also may link to other nodes. Links between nodes are often implemented by pointers. 
-
-Image
-
 
 
 8)	**Linked list ( Data structure)  :** In computer science, a linked list is a linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next. It is a data structure consisting of a collection of nodes which together represent a sequence. In its most basic form, each node contains data, and a reference to the next node in the sequence. This structure allows for efficient insertion or removal of elements from any position in the sequence during iteration. More complex variants add additional links, allowing more efficient insertion or removal of nodes at arbitrary positions. A drawback of linked lists is that data access time is linear in respect to the number of nodes in the list. Because nodes are serially linked, accessing any node requires that the prior node be accessed beforehand. Faster access, such as random access, is not feasible. Arrays have better cache locality compared to linked lists.
 
-Image
+![image](https://github.com/Sourabh-Kumar04/Keywords-Blockchain/assets/155216316/fa62fd7c-bb85-470a-b710-11fc824e8282)
+
 
 
 
@@ -60,13 +56,15 @@ Image
 
 
 
-10)	**Peer to Peer (P2P) :** Peer-to-peer (P2P) computing or networking is a distributed application architecture that partitions tasks or workloads between peers. Peers are equally privileged, equipotent participants in the network, forming a peer-to-peer network of nodes.
+
+
+10) **Peer to Peer (P2P) :** Peer-to-peer (P2P) computing or networking is a distributed application architecture that partitions tasks or workloads between peers. Peers are equally privileged, equipotent participants in the network, forming a peer-to-peer network of nodes.
 
 
 
 
 
-12)	**Blockchain Forks :** In blockchain, a fork is defined variously as:
+11) **Blockchain Forks :** In blockchain, a fork is defined variously as:
     “What happens when a blockchain diverges into two potential paths forward”
    	“A change in protocol”, or
    	A situation that “occurs when two or more blocks have the same block height”
@@ -92,7 +90,7 @@ Image
 
 
 
-16)	**Hal Finney :** 
+16)	**Hal Finney :** Harold Thomas Finney II (May 4, 1956 – August 28, 2014) was an American software developer. In his early career, he was credited as lead developer on several console games. Finney later worked for PGP Corporation. He also was an early bitcoin contributor and received the first bitcoin transaction from bitcoin's creator Satoshi Nakamoto.
 
 
 
@@ -142,13 +140,13 @@ Image
 
 
 
-26)	**Pemissed Blockchain :**
+26)	**Pemissed Blockchain :** A permissioned blockchain is a distributed ledger that is not publicly accessible. It can only be accessed by users with permissions. The users can only perform specific actions granted to them by the ledger administrators and are required to identify themselves through certificates or other digital means.
 
 
 
 
 
-27)	**Permissionless Blockchain :**
+27)	**Permissionless Blockchain :** Permissionless is a blockchain-specific term that means that users do not require permission to use a blockchain protocol, DeFi platform, or related system.
 
 
 
@@ -162,7 +160,9 @@ Image
 
 
 
-29)	**Computer System Established Maintained & Trusted by Mutually Suspicious Group :** 
+29)	**Computer System Established Maintained & Trusted by Mutually Suspicious Group :** This paper is the first known proposal for a blockchain protocol.
+    Chaum describes the design of a distributed computer system that can be established, maintained, and trusted by mutually suspicious groups.
+   	It is a public record-keeping system with group membership consistency and private transaction computations that protects individual privacy through physical security.
 
 
 
@@ -170,191 +170,193 @@ Image
 
 
 
-30)	**The New York Times :** The New York Times (NYT) is a national daily newspaper based in New York City. A newspaper of record, it is the second-largest newspaper by circulation and one of the longest-running newspapers in the United States. The New York Times is published by The New York Times Company, a publicly traded company; since 1896, the company has been chaired by the Ochs-Sulzberger family, including its current chairman and the paper’s publisher, A. G. Sulzberger. The Times is headquartered at The New York Times Building in Manhattan. The New York Times covers domestic, national, and international news, and comprises opinion pieces, investigative reports, and reviews.
+31)	**The New York Times :** The New York Times (NYT) is a national daily newspaper based in New York City. A newspaper of record, it is the second-largest newspaper by circulation and one of the longest-running newspapers in the United States. The New York Times is published by The New York Times Company, a publicly traded company; since 1896, the company has been chaired by the Ochs-Sulzberger family, including its current chairman and the paper’s publisher, A. G. Sulzberger. The Times is headquartered at The New York Times Building in Manhattan. The New York Times covers domestic, national, and international news, and comprises opinion pieces, investigative reports, and reviews.
 
 
 
 
 
-31)	**HashCash :** Hashcash is a proof-of-work system used to limit email spam and denial-of-service attacks. Hashcash was proposed in 1997 by Adam Back and described more formally in Back’s 2002 paper “Hashcash – A Denial of Service Counter-Measure”. In Hashcash the client has to concatenate a random number with a string several times and hash this new string. It then has to do so over and over until a hash beginning with a certain amount of zeros is found.
+32)	**HashCash :** Hashcash is a proof-of-work system used to limit email spam and denial-of-service attacks. Hashcash was proposed in 1997 by Adam Back and described more formally in Back’s 2002 paper “Hashcash – A Denial of Service Counter-Measure”. In Hashcash the client has to concatenate a random number with a string several times and hash this new string. It then has to do so over and over until a hash beginning with a certain amount of zeros is found.
 
 
 
-32)	**Block :**
+33)	**Block :** A block in a Blockchain contains list of records (called transaction data), a timestamp (UNIX time) and cryptographic hash of previous block (hash converts the previous block data into a fixed length of random data)
 
 
 
 
 
-33)	**Chain :**
+34)	**Chain :**
 
 
 
-34)	**Diffusion of Innovation :** Diffusion of innovations is a theory that seeks to explain how, why, and at what rate new ideas and technology spread. The theory was popularized by Everett Rogers in his book Diffusion of Innovations, first published in 1962. Rogers argues that diffusion is the process by which an innovation is communicated thorough certain channels over time among the participants in a social system. The origins of the diffusion of innovations theory are varied and span multiple disciplines.
+35)	**Diffusion of Innovation :** Diffusion of innovations is a theory that seeks to explain how, why, and at what rate new ideas and technology spread. The theory was popularized by Everett Rogers in his book Diffusion of Innovations, first published in 1962. Rogers argues that diffusion is the process by which an innovation is communicated thorough certain channels over time among the participants in a social system. The origins of the diffusion of innovations theory are varied and span multiple disciplines.
 
 
 
 
 
-35)	**Accenture :** Accenture plc is an Irish-American professional services company based in Dublin, specializing in information technology (IT) services and consulting. A Fortune Global 500 company, it reported revenues of $64.1 billion in 2023. Accenture’s current clients include 91 of the Fortune Global 100 and more than three-quarters of the Fortune Global 500. As of 2022, Accenture is considered the largest consulting firm in the world by number of employees.
+36)	**Accenture :** Accenture plc is an Irish-American professional services company based in Dublin, specializing in information technology (IT) services and consulting. A Fortune Global 500 company, it reported revenues of $64.1 billion in 2023. Accenture’s current clients include 91 of the Fortune Global 100 and more than three-quarters of the Fortune Global 500. As of 2022, Accenture is considered the largest consulting firm in the world by number of employees.
 
 
 
-36)	**Early Adaptors :** An early adopter or lighthouse customer is an early customer of a given company, product, or technology. The term originates from Everett M. Rogers’ Diffusion of Innovations (1962).
+37)	**Early Adaptors :** An early adopter or lighthouse customer is an early customer of a given company, product, or technology. The term originates from Everett M. Rogers’ Diffusion of Innovations (1962).
 
 
 
 
 
-37)	**Global Blockchain Forum :**
+38)	**Global Blockchain Forum :** A new international digital currency and blockchain advocacy organization has been established called the Global Blockchain Forum to help public relations and foreign policy deal with concepts like cryptocurrency and distributed ledger technology. The group is made up of members of the Washington D.C. based Chamber of Digital Commerce, the UK Digital Currency Association, ACCESS, and the Australian Digital Currency & Commerce Association.
 
 
 
-38)	**Chamber of Digital Commerce :** The Chamber of Digital Commerce is an American advocacy group that promotes the emerging industry behind blockchain technology, bitcoin, digital currency and digital assets.
+39)	**Chamber of Digital Commerce :** The Chamber of Digital Commerce is an American advocacy group that promotes the emerging industry behind blockchain technology, bitcoin, digital currency and digital assets.
 
 
 
 
 
-39)	**Gartner :** Gartner, Inc. is an American technological research and consulting firm based in Stamford, Connecticut that conducts research on technology and shares this research both through private consulting as well as executive programs and conferences. Its clients include large corporations, government agencies, technology companies, and investment firms.
+40)	**Gartner :** Gartner, Inc. is an American technological research and consulting firm based in Stamford, Connecticut that conducts research on technology and shares this research both through private consulting as well as executive programs and conferences. Its clients include large corporations, government agencies, technology companies, and investment firms.
 
 
 
-40)	**CIOs / CDIOs :** Chief information officer (CIO), chief digital information officer (CDIO) or information technology (IT) director, is a job title commonly given to the most senior executive in an enterprise who works with information technology and computer systems, in order to support enterprise goals.
+41)	**CIOs / CDIOs :** Chief information officer (CIO), chief digital information officer (CDIO) or information technology (IT) director, is a job title commonly given to the most senior executive in an enterprise who works with information technology and computer systems, in order to support enterprise goals.
 
 
 
 
 
-41)	**Main Chain (Black) :**
+42)	**Main Chain (Black) :** The mainchain is the primary layer of a blockchain architecture where every transaction is processed and finalized. Applications and sublayers are built on top of the mainchain. It adds security and privacy and improves decentralization to the whole ecosystem.
+    The mainchain, often referred to as the parent blockchain, is the original backbone of the entire blockchain network. It connects all the blocks around the network and stores the record of transactions. Once data is stored on the blockchain, it is impossible to change it. 
 
 
 
-42)	**Genesis Block (Green) :**
+44)	**Genesis Block (Green) :** The Genesis Block is the first block in the blockchain and contains unique characteristics that distinguish it from the posterior blocks in the chain. It’s the only block that doesn’t source a former block, as there are no blocks before it. rather, the Genesis Block is hard coded into the blockchain’s protocol as the starting point.
+    
 
 
 
 
 
-43)	**Orphan Block (Purple) :**
+46)	**Orphan Block (Purple) :** An orphan block is a block that has been solved within the blockchain network but was not accepted by the network. There can be two miners who solve valid blocks simultaneously. The network uses both blocks until one chain has more verified blocks. Then, the blocks in the shorter chain are orphaned
 
 
 
-44)	**Decentralised :** Decentralized computing is the allocation of resources, both hardware and software, to each individual workstation, or office location. In contrast, centralized computing exists when the majority of functions are carried out, or obtained from a remote centralized location. Decentralized computing is a trend in modern-day business environments. This is the opposite of centralized computing, which was prevalent during the early days of computers. A decentralized computer system has many benefits over a conventional centralized network. Desktop computers have advanced so rapidly, that their potential performance far exceeds the requirements of most business applications. This results in most desktop computers remaining idle. A decentralized system can use the potential of these systems to maximize efficiency. However, it is debatable whether these networks increase overall effectiveness.
+47)	**Decentralised :** Decentralized computing is the allocation of resources, both hardware and software, to each individual workstation, or office location. In contrast, centralized computing exists when the majority of functions are carried out, or obtained from a remote centralized location. Decentralized computing is a trend in modern-day business environments. This is the opposite of centralized computing, which was prevalent during the early days of computers. A decentralized computer system has many benefits over a conventional centralized network. Desktop computers have advanced so rapidly, that their potential performance far exceeds the requirements of most business applications. This results in most desktop computers remaining idle. A decentralized system can use the potential of these systems to maximize efficiency. However, it is debatable whether these networks increase overall effectiveness.
 
 
 
-45)	**Distributed :** A distributed system is a system whose components are located on different networked computers, which communicate and coordinate their actions by passing messages to one another. Distributed computing is a field of computer science that studies distributed systems.
+48)	**Distributed :** A distributed system is a system whose components are located on different networked computers, which communicate and coordinate their actions by passing messages to one another. Distributed computing is a field of computer science that studies distributed systems.
 
 
 
 
 
-46)	**Retroactivity :**
+49)	**Retroactivity :** In computer science a retroactive data structure is a data structure which supports efficient modifications to a sequence of operations that have been performed on the structure. These modifications can take the form of retroactive insertion, deletion or updating an operation that was performed at some time in the past.
 
 
 
-47)	**Authentication :** Authentication is the act of proving an assertion, such as the identity of a computer system user. In contrast with identification, the act of indicating a person or thing’s identity, authentication is the process of verifying that identity. It might involve validating personal identity documents, verifying the authenticity of a website with a digital certificate, determining the age of an artifact by carbon dating, or ensuring that a product or document is not counterfeit.
+50)	**Authentication :** Authentication is the act of proving an assertion, such as the identity of a computer system user. In contrast with identification, the act of indicating a person or thing’s identity, authentication is the process of verifying that identity. It might involve validating personal identity documents, verifying the authenticity of a website with a digital certificate, determining the age of an artifact by carbon dating, or ensuring that a product or document is not counterfeit.
 
 
 
-48)	**Mass Collaboration :** Mass collaboration is a form of collective action that occurs when large numbers of people work independently on a single project, often modular in its nature. Such projects typically take place on the internet using social software and computer-supported collaboration tools such as wiki technologies, which provide a potentially infinite hypertextual substrate within which the collaboration may be situated. Open source software such as Linux was developed via mass collaboration.
+51)	**Mass Collaboration :** Mass collaboration is a form of collective action that occurs when large numbers of people work independently on a single project, often modular in its nature. Such projects typically take place on the internet using social software and computer-supported collaboration tools such as wiki technologies, which provide a potentially infinite hypertextual substrate within which the collaboration may be situated. Open source software such as Linux was developed via mass collaboration.
 
 
 
 
 
-49)	**Collective :** A collective is a group of entities that share or are motivated by at least one common issue or interest, or work together to achieve a common objective. Collectives can differ from cooperatives in that they are not necessarily focused upon an economic benefit or saving, but can be that as well.
+52)	**Collective :** A collective is a group of entities that share or are motivated by at least one common issue or interest, or work together to achieve a common objective. Collectives can differ from cooperatives in that they are not necessarily focused upon an economic benefit or saving, but can be that as well.
 
 
 
-50)	**Self Interest :** Self-interest generally refers to a focus on the needs or desires (interests) of one’s self. Most times, actions that display self-interest are often performed without conscious knowing. A number of philosophical, psychological, and economic theories examine the role of self-interest in motivating human action. Individuals may have a self-serving bias towards their self-interest.
+53)	**Self Interest :** Self-interest generally refers to a focus on the needs or desires (interests) of one’s self. Most times, actions that display self-interest are often performed without conscious knowing. A number of philosophical, psychological, and economic theories examine the role of self-interest in motivating human action. Individuals may have a self-serving bias towards their self-interest.
 
 
 
-51)	**Robust :** In computer science, robustness is the ability of a computer system to cope with errors during execution and cope with erroneous input. Robustness can encompass many areas of computer science, such as robust programming, robust machine learning, and Robust Security Network. Formal techniques, such as fuzz testing, are essential to showing robustness since this type of testing involves invalid or unexpected inputs. Alternatively, fault injection can be used to test robustness. Various commercial products perform robustness testing of software analysis.
+54)	**Robust :** In computer science, robustness is the ability of a computer system to cope with errors during execution and cope with erroneous input. Robustness can encompass many areas of computer science, such as robust programming, robust machine learning, and Robust Security Network. Formal techniques, such as fuzz testing, are essential to showing robustness since this type of testing involves invalid or unexpected inputs. Alternatively, fault injection can be used to test robustness. Various commercial products perform robustness testing of software analysis.
 
 
 
-52)	**Workflow :** A workflow is a generic term for orchestrated and repeatable patterns of activity, enabled by the systematic organization of resources into processes that transform materials, provide services, or process information. It can be depicted as a sequence of operations, the work of a person or group, the work of an organization of staff, or one or more simple or complex mechanisms.
+55)	**Workflow :** A workflow is a generic term for orchestrated and repeatable patterns of activity, enabled by the systematic organization of resources into processes that transform materials, provide services, or process information. It can be depicted as a sequence of operations, the work of a person or group, the work of an organization of staff, or one or more simple or complex mechanisms.
 
 
 
 
 
-53)	**Reproductivity (from Digital Assets) :** In Marxian economics, economic reproduction refers to recurrent processes. Michel Aglietta views economic reproduction as the process whereby the initial conditions necessary for economic activity to occur are constantly re-created. Marx viewed reproduction as the process by which society re-created itself, both materially and socially.
+56)	**Reproductivity (from Digital Assets) :** In Marxian economics, economic reproduction refers to recurrent processes. Michel Aglietta views economic reproduction as the process whereby the initial conditions necessary for economic activity to occur are constantly re-created. Marx viewed reproduction as the process by which society re-created itself, both materially and socially.
 
 
 
-54)	**Digital Assets :** A digital asset is anything that exists only in digital form and comes with a distinct usage right or distinct permission for use. Data that do not possess those rights are not considered assets.
+57)	**Digital Assets :** A digital asset is anything that exists only in digital form and comes with a distinct usage right or distinct permission for use. Data that do not possess those rights are not considered assets.
 
 
 
 
 
-55)	**Double Spending :** Double-spending is a fundamental flaw in a digital cash protocol in which the same single digital token can be spent more than once. Due to the nature of information space, in comparison to physical space, a digital token is inherently almost infinitely duplicable or falsifiable, leading to ownership of said token itself being undefinable unless declared so by a chosen authority. As with counterfeit money, such double-spending leads to inflation by creating a new amount of copied currency that did not previously exist. Like all increasingly abundant resources, this devalues the currency relative to other monetary units or goods and diminishes user trust as well as the circulation and retention of the currency.
+58)	**Double Spending :** Double-spending is a fundamental flaw in a digital cash protocol in which the same single digital token can be spent more than once. Due to the nature of information space, in comparison to physical space, a digital token is inherently almost infinitely duplicable or falsifiable, leading to ownership of said token itself being undefinable unless declared so by a chosen authority. As with counterfeit money, such double-spending leads to inflation by creating a new amount of copied currency that did not previously exist. Like all increasingly abundant resources, this devalues the currency relative to other monetary units or goods and diminishes user trust as well as the circulation and retention of the currency.
 
 
 
-56)	**Offer and Acceptance :** Offer and acceptance are generally recognised as essential requirements for the formation of a contract, and analysis of their operation is a traditional approach in contract law. This classical approach to contract formation has been modified by developments in the law of estoppel, misleading conduct, misrepresentation, unjust enrichment, and power of acceptance.
+59)	**Offer and Acceptance :** Offer and acceptance are generally recognised as essential requirements for the formation of a contract, and analysis of their operation is a traditional approach in contract law. This classical approach to contract formation has been modified by developments in the law of estoppel, misleading conduct, misrepresentation, unjust enrichment, and power of acceptance.
 
 
 
-57)	**Value -Exchange Protocol :**
+60)	**Value -Exchange Protocol :**
 
 
 
 
 
-58)	**Title Right (Blockchain maintain) :** In property law, title is an intangible construct representing a bundle of rights in (to) a piece of property in which a party may own either a legal interest or equitable interest. The rights in the bundle may be separated and held by different parties. It may also refer to a formal document, such as a deed, that serves as evidence of ownership. Conveyance of the document may be required in order to transfer ownership in the property to another person. Title is distinct from possession, a right that often accompanies ownership but is not necessarily sufficient to prove it. In many cases, possession and title may each be transferred independently of the other. For real property, land registration and recording provide public notice of ownership information.
+61)	**Title Right (Blockchain maintain) :** In property law, title is an intangible construct representing a bundle of rights in (to) a piece of property in which a party may own either a legal interest or equitable interest. The rights in the bundle may be separated and held by different parties. It may also refer to a formal document, such as a deed, that serves as evidence of ownership. Conveyance of the document may be required in order to transfer ownership in the property to another person. Title is distinct from possession, a right that often accompanies ownership but is not necessarily sufficient to prove it. In many cases, possession and title may each be transferred independently of the other. For real property, land registration and recording provide public notice of ownership information.
 
 
 
-59)	**Blockchain Layers :( infrastructure Networking,consensus,Data, Application ):**
+62)	**Blockchain Layers :( infrastructure Networking,consensus,Data, Application ):**
 
 
 
 
 
-60)	**Proof of work :** Proof of work (PoW) is a form of cryptographic proof in which one party proves to others that a certain amount of a specific computational effort has been expended. Verifiers can subsequently confirm this expenditure with minimal effort on their part. The concept was invented by Moni Naor and Cynthia Dwork in 1993 as a way to deter denial-of-service attacks and other service abuses such as spam on a network by requiring some work from a service requester, usually meaning processing time by a computer. The term “proof of work” was first coined and formalized in a 1999 paper by Markus Jakobsson and Ari Juels. The concept was adapted digital tokens by Hal Finney in 2004 through the idea of “reusable proof of work” using the 160-bit secure hash algorithm 1 (SHA-1).
+63)	**Proof of work :** Proof of work (PoW) is a form of cryptographic proof in which one party proves to others that a certain amount of a specific computational effort has been expended. Verifiers can subsequently confirm this expenditure with minimal effort on their part. The concept was invented by Moni Naor and Cynthia Dwork in 1993 as a way to deter denial-of-service attacks and other service abuses such as spam on a network by requiring some work from a service requester, usually meaning processing time by a computer. The term “proof of work” was first coined and formalized in a 1999 paper by Markus Jakobsson and Ari Juels. The concept was adapted digital tokens by Hal Finney in 2004 through the idea of “reusable proof of work” using the 160-bit secure hash algorithm 1 (SHA-1).
 
 
 
-61)	**Proof of stake :** Proof-of-stake (PoS) protocols are a class of consensus mechanisms for blockchains that work by selecting validators in proportion to their quantity of holdings in the associated cryptocurrency. This is done to avoid the computational cost of proof-of-work (POW) schemes. The first functioning use of PoS for cryptocurrency was Peercoin in 2012, although the scheme, on the surface, still resembled a POW.
+64)	**Proof of stake :** Proof-of-stake (PoS) protocols are a class of consensus mechanisms for blockchains that work by selecting validators in proportion to their quantity of holdings in the associated cryptocurrency. This is done to avoid the computational cost of proof-of-work (POW) schemes. The first functioning use of PoS for cryptocurrency was Peercoin in 2012, although the scheme, on the surface, still resembled a POW.
 
 
 
 
 
-62)	**Smart Contact:** A smart contract is a computer program or a transaction protocol that is intended to automatically execute, control or document events and actions according to the terms of a contract or an agreement. The objectives of smart contracts are the reduction of need for trusted intermediators, arbitration costs, and fraud losses, as well as the reduction of malicious and accidental exceptions. Smart contracts are commonly associated with cryptocurrencies, and the smart contracts introduced by Ethereum are generally considered a fundamental building block for decentralized finance (DeFi) and NFT applications.
+65)	**Smart Contact:** A smart contract is a computer program or a transaction protocol that is intended to automatically execute, control or document events and actions according to the terms of a contract or an agreement. The objectives of smart contracts are the reduction of need for trusted intermediators, arbitration costs, and fraud losses, as well as the reduction of malicious and accidental exceptions. Smart contracts are commonly associated with cryptocurrencies, and the smart contracts introduced by Ethereum are generally considered a fundamental building block for decentralized finance (DeFi) and NFT applications.
 
 
 
-63)	**Decentralised Application :** A decentralised application is an application that can operate autonomously, typically through the use of smart contracts, that run on a decentralized computing, blockchain or other distributed ledger system. Like traditional applications, DApps provide some function or utility to its users. However, unlike traditional applications, DApps operate without human intervention and are not owned by any one entity, rather DApps distribute tokens that represent ownership. These tokens are distributed according to a programmed algorithm to the users of the system, diluting ownership and control of the DApp. Without any one entity controlling the system, the application is therefore decentralised.
+66)	**Decentralised Application :** A decentralised application is an application that can operate autonomously, typically through the use of smart contracts, that run on a decentralized computing, blockchain or other distributed ledger system. Like traditional applications, DApps provide some function or utility to its users. However, unlike traditional applications, DApps operate without human intervention and are not owned by any one entity, rather DApps distribute tokens that represent ownership. These tokens are distributed according to a programmed algorithm to the users of the system, diluting ownership and control of the DApp. Without any one entity controlling the system, the application is therefore decentralised.
 
 
 
-64)	**Transaction :** In computer science, transaction processing is information processing that is divided into individual, indivisible operations called transactions. Each transaction must succeed or fail as a complete unit; it can never be only partially complete.
+67)	**Transaction :** In computer science, transaction processing is information processing that is divided into individual, indivisible operations called transactions. Each transaction must succeed or fail as a complete unit; it can never be only partially complete.
 
 
 
-65)	**Iteration :** Iteration is the repetition of a process in order to generate a sequence of outcomes. Each repetition of the process is a single iteration, and the outcome of each iteration is then the starting point of the next iteration.
+68)	**Iteration :** Iteration is the repetition of a process in order to generate a sequence of outcomes. Each repetition of the process is a single iteration, and the outcome of each iteration is then the starting point of the next iteration.
 
 
 
-66)	**Block :**
+69)	**Block :**
 
 
 
 
 
-67)	**Hashes &Encoded (Transaction) :**
+70)	**Hashes &Encoded (Transaction) :**
 
-68)	**Hashed-based :** Hash-based cryptography is the generic term for constructions of cryptographic primitives based on the security of hash functions. It is of interest as a type of post-quantum cryptography.
+71)	**Hashed-based :** Hash-based cryptography is the generic term for constructions of cryptographic primitives based on the security of hash functions. It is of interest as a type of post-quantum cryptography.
 
 
 
-69)	**Cryptographic Hash :** A cryptographic hash function (CHF) is a hash algorithm that has special properties desirable for a cryptographic application:
+72)	**Cryptographic Hash :** A cryptographic hash function (CHF) is a hash algorithm that has special properties desirable for a cryptographic application:
     The probability of a particular -bit output result for a random input string (“message”) is , so the hash value can be used as a representative of the message;
    	Finding an input string that matches a given hash value is unfeasible, assuming all input strings are equally likely. The resistance to such search is quantified as security strength, a cryptographic hash with  bits of hash value is expected to have a preimage resistance strength of  bits, unless the space of possible input values is significantly smaller than  ;
    	A second preimage resistance strength, with the same expectations, refers to a similar problem of finding a second message that matches the given hash value when one message is already known;
@@ -364,11 +366,11 @@ Image
 
 
 
-71)	**Genesis Block :**
+73)	**Genesis Block :**
 
 
 
-72)	**Digitally Signed :** A digital signature is a mathematical scheme for verifying the authenticity of digital messages or documents. A valid digital signature on a message gives a recipient confidence that the message came from a sender known to the recipient.
+74)	**Digitally Signed :** A digital signature is a mathematical scheme for verifying the authenticity of digital messages or documents. A valid digital signature on a message gives a recipient confidence that the message came from a sender known to the recipient.
     Digital signatures are a standard element of most cryptographic protocol suites, and are commonly used for software distribution, financial transactions, contract management software, and in other cases where it is important to detect forgery or tampering.
    	Digital signatures are often used to implement electronic signatures, which include any electronic data that carries the intent of a signature, but not all electronic signatures use digital signatures. Electronic signatures have legal significance in some countries, including Brazil, Canada, South Africa, the United States, Algeria, Turkey, India, Indonesia, Mexico, Saudi Arabia, Uruguay, Switzerland, Chile and the countries of the European Union.
 
@@ -376,7 +378,7 @@ Image
 
 
 
-73)	**Fork :(Temperory and permanent):** In blockchain, a fork is defined variously as:
+75)	**Fork :(Temperory and permanent):** In blockchain, a fork is defined variously as:
     “What happens when a blockchain diverges into two potential paths forward”
    	“A change in protocol”, or
    	A situation that “occurs when two or more blocks have the same block height”
@@ -385,21 +387,21 @@ Image
 
 
 
-74)	**Orphan Blocks :**
+76)	**Orphan Blocks :**
 
 
 
-75)	**Inclusion in Blockchain :**
+77)	**Inclusion in Blockchain :**
 
 
 
 
 
-76)	**Computation (Redundanty carried in Blockchain) :** A computation is any type of arithmetic or non-arithmetic calculation that is well-defined. Common examples of computations are mathematical equations and computer algorithms.
+78)	**Computation (Redundanty carried in Blockchain) :** A computation is any type of arithmetic or non-arithmetic calculation that is well-defined. Common examples of computations are mathematical equations and computer algorithms.
 
 
 
-77)	**Block Time :** The block time is the average time it takes for the network to generate one extra block in the blockchain. By the time of block completion, the included data becomes verifiable. In cryptocurrency, this is practically when the transaction takes place, so a shorter block time means faster transactions. The block time for Ethereum is set to between 14 and 15 seconds, while for bitcoin it is on average 10 minutes.
+79)	**Block Time :** The block time is the average time it takes for the network to generate one extra block in the blockchain. By the time of block completion, the included data becomes verifiable. In cryptocurrency, this is practically when the transaction takes place, so a shorter block time means faster transactions. The block time for Ethereum is set to between 14 and 15 seconds, while for bitcoin it is on average 10 minutes.
     *Ethereum – 14-15 Second :*
    	*Bitcoin- 10 min :*
 
@@ -407,75 +409,75 @@ Image
 
 
 
-78)	**Hard forks :** A hard fork is a change to the blockchain protocol that is not backward compatible and requires all users to upgrade their software in order to continue participating in the network. In a hard fork, the network splits into two separate versions: one that follows the new rules and one that follows the old rules.
+80)	**Hard forks :** A hard fork is a change to the blockchain protocol that is not backward compatible and requires all users to upgrade their software in order to continue participating in the network. In a hard fork, the network splits into two separate versions: one that follows the new rules and one that follows the old rules.
 
 
 
-79)	**DAO (Decentralised Automonus organisation):** The DAO was a digital decentralized autonomous organization and a form of investor-directed venture capital fund. After launching in April 2016 via a token sale, it became one of the largest crowdfunding campaigns in history, but it ceased activity after much of its funds were taken in a hack in June 2016.
+81)	**DAO (Decentralised Automonus organisation):** The DAO was a digital decentralized autonomous organization and a form of investor-directed venture capital fund. After launching in April 2016 via a token sale, it became one of the largest crowdfunding campaigns in history, but it ceased activity after much of its funds were taken in a hack in June 2016.
 
 
 
 
 
-80)	**Ethereum & Ethereum classic (chain) :** Ethereum is a decentralized blockchain with smart contract functionality. Ether is the native cryptocurrency of the platform. Among cryptocurrencies, ether is second only to bitcoin in market capitalization. It is open-source software.
+82)	**Ethereum & Ethereum classic (chain) :** Ethereum is a decentralized blockchain with smart contract functionality. Ether is the native cryptocurrency of the platform. Among cryptocurrencies, ether is second only to bitcoin in market capitalization. It is open-source software.
     Ethereum Classic is a blockchain-based distributed computing platform that offers smart contract (scripting) functionality. It is open source and supports a modified version of Nakamoto consensus via transaction-based state transitions executed on a public Ethereum Virtual Machine (EVM).
 
 
 
-81)	**Nxt :** NXT is an open source cryptocurrency and payment network launched in 2013 by anonymous software developer BCNext. It uses proof-of-stake to reach consensus for transactions—as such, there is a static money supply. Unlike Bitcoin, there is no mining. NXT was specifically conceived as a flexible platform around build applications and financial services, and serves as basis for ARDR (Ardor), a blockchain-as-a-service multichain platform developed by Jelurida, and IoTeX (cryptocurrency) the current steward of NXT as of 2021. NXT has been covered extensively in the “Call for Evidence” report by ESMA.
+83)	**Nxt :** NXT is an open source cryptocurrency and payment network launched in 2013 by anonymous software developer BCNext. It uses proof-of-stake to reach consensus for transactions—as such, there is a static money supply. Unlike Bitcoin, there is no mining. NXT was specifically conceived as a flexible platform around build applications and financial services, and serves as basis for ARDR (Ardor), a blockchain-as-a-service multichain platform developed by Jelurida, and IoTeX (cryptocurrency) the current steward of NXT as of 2021. NXT has been covered extensively in the “Call for Evidence” report by ESMA.
 
 
 
-82)	**Cryptocurrency Exchange/Digital currency exchange :** A cryptocurrency exchange, or a digital currency exchange (DCE), is a business that allows customers to trade cryptocurrencies or digital currencies for other assets, such as conventional fiat money or other digital currencies. Exchanges may accept credit card payments, wire transfers or other forms of payment in exchange for digital currencies or cryptocurrencies. A cryptocurrency exchange can be a market maker that typically takes the bid–ask spreads as a transaction commission for its service or, as a matching platform, simply charges fees.
+84)	**Cryptocurrency Exchange/Digital currency exchange :** A cryptocurrency exchange, or a digital currency exchange (DCE), is a business that allows customers to trade cryptocurrencies or digital currencies for other assets, such as conventional fiat money or other digital currencies. Exchanges may accept credit card payments, wire transfers or other forms of payment in exchange for digital currencies or cryptocurrencies. A cryptocurrency exchange can be a market maker that typically takes the bid–ask spreads as a transaction commission for its service or, as a matching platform, simply charges fees.
 
 
 
 
 
-83)	**Bitcoin cash :** Bitcoin Cash is a cryptocurrency that is a fork of Bitcoin. Bitcoin Cash is a spin-off or altcoin that was created in 2017.
+85)	**Bitcoin cash :** Bitcoin Cash is a cryptocurrency that is a fork of Bitcoin. Bitcoin Cash is a spin-off or altcoin that was created in 2017.
     In November 2018, Bitcoin Cash split further into two cryptocurrencies: Bitcoin Cash and Bitcoin SV.
 
 
 
-84)	**Ad hoc:** Ad hoc is a Latin phrase meaning literally ‘for this’. In English, it typically signifies a solution for a specific purpose, problem, or task rather than a generalized solution adaptable to collateral instances.
+86)	**Ad hoc:** Ad hoc is a Latin phrase meaning literally ‘for this’. In English, it typically signifies a solution for a specific purpose, problem, or task rather than a generalized solution adaptable to collateral instances.
 
 
 
-85)	**Message passing :** In computer science, message passing is a technique for invoking behavior on a computer. The invoking program sends a message to a process and relies on that process and its supporting infrastructure to then select and run some appropriate code. Message passing differs from conventional programming where a process, subroutine, or function is directly invoked by name. Message passing is key to some models of concurrency and object-oriented programming.
+87)	**Message passing :** In computer science, message passing is a technique for invoking behavior on a computer. The invoking program sends a message to a process and relies on that process and its supporting infrastructure to then select and run some appropriate code. Message passing differs from conventional programming where a process, subroutine, or function is directly invoked by name. Message passing is key to some models of concurrency and object-oriented programming.
 
 
 
-86)	**Parallel Computing :** Parallel computing is a type of computation in which many calculations or processes are carried out simultaneously. Large problems can often be divided into smaller ones, which can then be solved at the same time. There are several different forms of parallel computing: bit-level, instruction-level, data, and task parallelism. Parallelism has long been employed in high-performance computing, but has gained broader interest due to the physical constraints preventing frequency scaling. As power consumption by computers has become a concern in recent years, parallel computing has become the dominant paradigm in computer architecture, mainly in the form of multi-core processors.
+88)	**Parallel Computing :** Parallel computing is a type of computation in which many calculations or processes are carried out simultaneously. Large problems can often be divided into smaller ones, which can then be solved at the same time. There are several different forms of parallel computing: bit-level, instruction-level, data, and task parallelism. Parallelism has long been employed in high-performance computing, but has gained broader interest due to the physical constraints preventing frequency scaling. As power consumption by computers has become a concern in recent years, parallel computing has become the dominant paradigm in computer architecture, mainly in the form of multi-core processors.
 
 
 
-87)	**Distributed networking :** Distributed networking, used in distributed computing, is the network system over which computer programming, software, and its data are spread out across more than one computer, but communicate complex messages through their nodes (computers), and are dependent upon each other. The goal of a distributed network is to share resources, typically to accomplish a single or similar goal
-
-
-
-
-
-88)	**Public key cryptography :** Public-key cryptography, or asymmetric cryptography, is the field of cryptographic systems that use pairs of related keys. Each key pair consists of a public key and a corresponding private key. Key pairs are generated with cryptographic algorithms based on mathematical problems termed one-way functions. Security of public-key cryptography depends on keeping the private key secret; the public key can be openly distributed without compromising security.
-
-
-
-89)	**Private key :**
+89)	**Distributed networking :** Distributed networking, used in distributed computing, is the network system over which computer programming, software, and its data are spread out across more than one computer, but communicate complex messages through their nodes (computers), and are dependent upon each other. The goal of a distributed network is to share resources, typically to accomplish a single or similar goal
 
 
 
 
 
-90)	**Node :** In telecommunications networks, a node is either a redistribution point or a communication endpoint. The definition of a node depends on the network and protocol layer referred to. A physical network node is an electronic device that is attached to a network, and is capable of creating, receiving, or transmitting information over a communication channel. A passive distribution point such as a distribution frame or patch panel is consequently not a node.
+90)	**Public key cryptography :** Public-key cryptography, or asymmetric cryptography, is the field of cryptographic systems that use pairs of related keys. Each key pair consists of a public key and a corresponding private key. Key pairs are generated with cryptographic algorithms based on mathematical problems termed one-way functions. Security of public-key cryptography depends on keeping the private key secret; the public key can be openly distributed without compromising security.
 
 
 
-91)	**Data quality :** Data quality refers to the state of qualitative or quantitative pieces of information. There are many definitions of data quality, but data is generally considered high quality if it is “fit for [its] intended uses in operations, decision making and planning”. Moreover, data is deemed of high quality if it correctly represents the real-world construct to which it refers. Furthermore, apart from these definitions, as the number of data sources increases, the question of internal data consistency becomes significant, regardless of fitness for use for any particular external purpose. People’s views on data quality can often be in disagreement, even when discussing the same set of data used for the same purpose. When this is the case, data governance is used to form agreed upon definitions and standards for data quality. In such cases, data cleansing, including standardization, may be required in order to ensure data quality.
+91)	**Private key :**
 
 
 
 
 
-92)	**Replication :** Replication in computing involves sharing information so as to ensure consistency between redundant resources, such as software or hardware components, to improve reliability, fault-tolerance, or accessibility.
+92)	**Node :** In telecommunications networks, a node is either a redistribution point or a communication endpoint. The definition of a node depends on the network and protocol layer referred to. A physical network node is an electronic device that is attached to a network, and is capable of creating, receiving, or transmitting information over a communication channel. A passive distribution point such as a distribution frame or patch panel is consequently not a node.
+
+
+
+93)	**Data quality :** Data quality refers to the state of qualitative or quantitative pieces of information. There are many definitions of data quality, but data is generally considered high quality if it is “fit for [its] intended uses in operations, decision making and planning”. Moreover, data is deemed of high quality if it correctly represents the real-world construct to which it refers. Furthermore, apart from these definitions, as the number of data sources increases, the question of internal data consistency becomes significant, regardless of fitness for use for any particular external purpose. People’s views on data quality can often be in disagreement, even when discussing the same set of data used for the same purpose. When this is the case, data governance is used to form agreed upon definitions and standards for data quality. In such cases, data cleansing, including standardization, may be required in order to ensure data quality.
+
+
+
+
+
+94)	**Replication :** Replication in computing involves sharing information so as to ensure consistency between redundant resources, such as software or hardware components, to improve reliability, fault-tolerance, or accessibility.
     Replication in computing can refer to:
    	•	Data replication, where the same data is stored on multiple storage devices
    	•	Computation replication, where the same computing task is executed many times.
@@ -486,73 +488,73 @@ Image
 
 
 
-93)	**Computational trust :** In information security, computational trust is the generation of trusted authorities or user trust through cryptography. In centralised systems, security is typically based on the authenticated identity of external parties. Rigid authentication mechanisms, such as public key infrastructures (PKIs) or Kerberos, have allowed this model to be extended to distributed systems within a few closely collaborating domains or within a single administrative domain. During recent years, computer science has moved from centralised systems to distributed computing. This evolution has several implications for security models, policies and mechanisms needed to protect users’ information and resources in an increasingly interconnected computing infrastructure.
+95)	**Computational trust :** In information security, computational trust is the generation of trusted authorities or user trust through cryptography. In centralised systems, security is typically based on the authenticated identity of external parties. Rigid authentication mechanisms, such as public key infrastructures (PKIs) or Kerberos, have allowed this model to be extended to distributed systems within a few closely collaborating domains or within a single administrative domain. During recent years, computer science has moved from centralised systems to distributed computing. This evolution has several implications for security models, policies and mechanisms needed to protect users’ information and resources in an increasingly interconnected computing infrastructure.
 
 
 
-94)	**Energy intensive mining Node :**
-
-
-
-
-
-
-
-95)	**Best efforts delivery :** Best-effort delivery describes a network service in which a network does not provide any guarantee that data is effectively delivered or that delivery meets any quality of service. In a best-effort network, all users obtain best-effort service. Under best-effort, network performance characteristics such as transmission speed, network delay and packet loss depend on the current network traffic load, and the network hardware capacity. When network load increases, this can lead to packet loss, retransmission, packet delay variation, further network delay, or even timeout and session disconnect.
+96)	**Energy intensive mining Node :**
 
 
 
 
 
-96)	**Broadcast Networking  :** In computer networking, telecommunication and information theory, broadcasting is a method of transferring a message to all recipients simultaneously. Broadcasting can be performed as a high-level operation in a program, for example, broadcasting in Message Passing Interface, or it may be a low-level networking operation, for example broadcasting on Ethernet.
 
 
-
-97)	**Proof of Stake :** Proof-of-stake (PoS) protocols are a class of consensus mechanisms for blockchains that work by selecting validators in proportion to their quantity of holdings in the associated cryptocurrency. This is done to avoid the computational cost of proof-of-work (POW) schemes. The first functioning use of PoS for cryptocurrency was Peercoin in 2012, although the scheme, on the surface, still resembled a POW.
-
-
-
-98)	**Centralisation :** In graph theory and network analysis, indicators of centrality assign numbers or rankings to nodes within a graph corresponding to their network position. Applications include identifying the most influential person(s) in a social network, key infrastructure nodes in the Internet or urban networks, super-spreaders of disease, and brain networks. Centrality concepts were first developed in social network analysis, and many of the terms used to measure centrality reflect their sociological origin.
-
-
-
-99)	**Finality :** Finality is the level of confidence that the well-formed block recently appended to the blockchain will not be revoked in the future (is “finalized”) and thus can be trusted. Most distributed blockchain protocols, whether proof of work or proof of stake, cannot guarantee the finality of a freshly committed block, and instead rely on “probabilistic finality”: as the block goes deeper into a blockchain, it is less likely to be altered or reverted by a newly found consensus.
+97)	**Best efforts delivery :** Best-effort delivery describes a network service in which a network does not provide any guarantee that data is effectively delivered or that delivery meets any quality of service. In a best-effort network, all users obtain best-effort service. Under best-effort, network performance characteristics such as transmission speed, network delay and packet loss depend on the current network traffic load, and the network hardware capacity. When network load increases, this can lead to packet loss, retransmission, packet delay variation, further network delay, or even timeout and session disconnect.
 
 
 
 
 
-100)	**Probabilistic finality :**
+98)	**Broadcast Networking  :** In computer networking, telecommunication and information theory, broadcasting is a method of transferring a message to all recipients simultaneously. Broadcasting can be performed as a high-level operation in a program, for example, broadcasting in Message Passing Interface, or it may be a low-level networking operation, for example broadcasting on Ethernet.
 
 
 
-101)	**Absolute finality :***
+99)	**Proof of Stake :** Proof-of-stake (PoS) protocols are a class of consensus mechanisms for blockchains that work by selecting validators in proportion to their quantity of holdings in the associated cryptocurrency. This is done to avoid the computational cost of proof-of-work (POW) schemes. The first functioning use of PoS for cryptocurrency was Peercoin in 2012, although the scheme, on the surface, still resembled a POW.
 
 
 
-
-
-102)	**Economic finality :**
-
-
-
-103)	**Casper protocol :**
+100)	**Centralisation :** In graph theory and network analysis, indicators of centrality assign numbers or rankings to nodes within a graph corresponding to their network position. Applications include identifying the most influential person(s) in a social network, key infrastructure nodes in the Internet or urban networks, super-spreaders of disease, and brain networks. Centrality concepts were first developed in social network analysis, and many of the terms used to measure centrality reflect their sociological origin.
 
 
 
-
-
-104)	**Slashing :**
-
-
-
-105)	**Openness :**
+101)	**Finality :** Finality is the level of confidence that the well-formed block recently appended to the blockchain will not be revoked in the future (is “finalized”) and thus can be trusted. Most distributed blockchain protocols, whether proof of work or proof of stake, cannot guarantee the finality of a freshly committed block, and instead rely on “probabilistic finality”: as the block goes deeper into a blockchain, it is less likely to be altered or reverted by a newly found consensus.
 
 
 
 
 
-106)	**MVCC (Multiversion Concurrency Control) :** Multiversion concurrency control (MCC or MVCC), is a non-locking concurrency control method commonly used by database management systems to provide concurrent access to the database and in programming languages to implement transactional memory.
+102)	**Probabilistic finality :**
+
+
+
+103)	**Absolute finality :***
+
+
+
+
+
+104)	**Economic finality :**
+
+
+
+105)	**Casper protocol :**
+
+
+
+
+
+106)	**Slashing :**
+
+
+
+107)	**Openness :**
+
+
+
+
+
+108)	**MVCC (Multiversion Concurrency Control) :** Multiversion concurrency control (MCC or MVCC), is a non-locking concurrency control method commonly used by database management systems to provide concurrent access to the database and in programming languages to implement transactional memory.
 
 When an MVCC database needs to update a piece of data, it will not overwrite the original data item with new data, but instead creates a newer version of the data item. Thus there are multiple versions stored. The version that each transaction sees depends on the isolation level implemented. The most common isolation level implemented with MVCC is snapshot isolation. With snapshot isolation, a transaction observes a state of the data as of when the transaction started.
 
@@ -1303,6 +1305,7 @@ Metaverse development is often linked to advancing virtual reality technology, a
 
 273)	**Timestamped :** Trusted timestamping is the process of securely keeping track of the creation and modification time of a document. Security here means that no one—not even the owner of the document—should be able to change it once it has been recorded provided that the timestamper’s integrity is never compromised.
 
+274)	shbj
  
 
 
